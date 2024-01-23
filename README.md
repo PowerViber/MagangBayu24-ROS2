@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Reihan Arianza\
+NRP     : 5025231274
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
